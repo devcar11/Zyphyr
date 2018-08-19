@@ -1,0 +1,6 @@
+{
+  "token": "Token",
+  "game": "type zhelp for help! str(len(self.bot.servers))",
+  "prefix": "z",
+  "clr":"0xff0000"
+}
